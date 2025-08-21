@@ -40,7 +40,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: 'Address',
-    details: ['Dapo Afilaka street Obadeyi Ijaiye, Lagos, Nigeria'],
+    details: ['3 Bakare St, off college bustop, Ikotun, Lagos 102213, Nigeria'],
     color: 'text-blue-600',
     bgColor: 'bg-blue-100',
   },
@@ -54,7 +54,7 @@ const contactInfo = [
   {
     icon: Mail,
     title: 'Email',
-    details: ['info@uppermost.edu'],
+    details: ['info@coralvillesch.edu'],
     color: 'text-purple-600',
     bgColor: 'bg-purple-100',
   },
@@ -298,7 +298,7 @@ export default function ContactPage() {
                       <div className="text-center">
                         <MapPin className="h-12 w-12 text-gray-400 mx-auto mb-2" />
                         <p className="text-gray-500">Interactive Map</p>
-                        <p className="text-sm text-gray-400">Dapo Afilaka street Obadeyi Ijaiye, Lagos, Nigeria</p>
+                        <p className="text-sm text-gray-400">3 Bakare St, off college bustop, Ikotun, Lagos 102213, Nigeria</p>
                       </div>
                     </div>
                   </div>

@@ -75,7 +75,7 @@ export default function AboutPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
           >
-            <h1 className="text-4xl md:text-6xl font-bold mb-6">About Uppermost School</h1>
+            <h1 className="text-4xl md:text-6xl font-bold mb-6">About Coral Ville School</h1>
             <p className="text-xl md:text-2xl text-blue-100 max-w-3xl mx-auto">
               Empowering minds, shaping futures, and building tomorrow&#39;s leaders through exceptional education and values.
             </p>
@@ -133,8 +133,8 @@ export default function AboutPage() {
             <AnimatedSection delay={0.2}>
               <div className="relative">
                 <img
-                  src="https://images.pexels.com/photos/8923769/pexels-photo-8923769.jpeg?auto=compress&cs=tinysrgb&w=800"
-                  alt="Students in classroom"
+                  src="https://lh3.googleusercontent.com/gps-cs-s/AC9h4nov3mGaVaT2mpxzu1MCedXl6Mbsi9yFy_qftcuea3XyacTd8CS-Eer2xFiVJJFM3cDA1btzSxpOozCVEVQ9Mby6odiXPa2aEttvQmuRaVihBkFc_GUP8UywBeZQWVl1EuEFT4JdgQ=s1360-w1360-h1020"
+                  alt="classroom"
                   className="rounded-2xl shadow-2xl"
                 />
                 <div className="absolute -bottom-6 -right-6 w-24 h-24 bg-blue-600 rounded-full flex items-center justify-center">

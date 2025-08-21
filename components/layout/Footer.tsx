@@ -52,7 +52,7 @@ export default function Footer() {
               className="flex items-center space-x-2 mb-4"
             >
               <GraduationCap className="h-8 w-8 text-blue-400" />
-              <span className="text-xl font-bold">Uppermost School</span>
+              <span className="text-xl font-bold">Coral Ville School</span>
             </motion.div>
             <p className="text-gray-300 mb-6 max-w-md">
               Nurturing young minds with excellence in education, character building, and holistic development for over two decades.
@@ -61,7 +61,7 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center space-x-3 text-gray-300">
                 <MapPin className="h-5 w-5 text-blue-400" />
-                <span>Dapo Afilaka street Obadeyi Ijaiye</span>
+                <span>3 Bakare St, off college bustop, Ikotun</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-300">
                 <Phone className="h-5 w-5 text-blue-400" />
@@ -69,7 +69,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center space-x-3 text-gray-300">
                 <Mail className="h-5 w-5 text-blue-400" />
-                <span>info@uppermostschool.edu</span>
+                <span>info@coralvillesch.edu</span>
               </div>
             </div>
           </div>
@@ -158,7 +158,7 @@ export default function Footer() {
               ))}
             </div>
             <p className="text-gray-400 text-sm">
-              © 2024 Uppermost School. All rights reserved.
+              © 2024 Coral Ville School. All rights reserved.
             </p>
           </div>
         </div>

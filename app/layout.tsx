@@ -11,7 +11,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Uppermost School - Quality Education for Tomorrow',
+  title: 'Coral Ville School - Quality Education for Tomorrow',
   description: 'A premier educational institution dedicated to nurturing young minds with excellent academic programs and holistic development.',
 };
 

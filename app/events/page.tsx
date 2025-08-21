@@ -127,11 +127,11 @@ const pastEvents = [
   },
   {
     id: 8,
-    title: 'Mathematics Olympiad',
-    description: 'Regional mathematics competition where our students excelled and won multiple awards.',
+    title: 'Science Olympiad',
+    description: 'Regional science competition where our students excelled and won multiple awards.',
     date: '2023-11-20',
     category: 'academic',
-    image: 'https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrwb6QPmGf_qJdnUajm3YDv59q8DGQvYbgExA2G7mSTMaHXT8cmeeVnHmJYVn-4q6k7YATVGkV4ChMqJFtuTBCo_i8L2pDxc2R7us2wR_TFsn5vQ8LtSadnp7fKdLTld8eCa9i6=s1360-w1360-h1020',
     attendees: 100,
   },
   {
